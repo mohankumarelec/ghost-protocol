@@ -6,6 +6,9 @@
   "engines": {
     "vscode": "^1.96.0"
   },
+  "repository": {
+    "url": "https://github.com/mohankumarelec/ghost-protocol.git"
+  },
   "categories": [
     "Other"
   ],
@@ -32,6 +35,7 @@
     "@types/vscode": "^1.96.0",
     "@vscode/test-cli": "^0.0.4",
     "@vscode/test-electron": "^2.3.8",
+    "@vscode/vsce": "^3.2.1",
     "eslint": "^8.56.0",
     "typescript": "^5.3.3"
   },

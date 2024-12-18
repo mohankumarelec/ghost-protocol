@@ -2,8 +2,6 @@
 
 ## 🕵️‍♂️ The Ultimate Cybersecurity Awareness Tool 🛡️
 
-![Cybersecurity](https://your-image-url-here.com/cybersecurity.gif)
-
 ### 🎭 What is this?
 
 Ghost Protocol is a **jaw-dropping**, _eye-opening_ VS Code extension that gives you a front-row seat to a simulated cyber attack. It's like watching a thriller movie, but you're the star! 🌟
