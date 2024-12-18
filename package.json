@@ -1,11 +1,12 @@
 {
   "publisher": "MohankumarRamachandran",
   "name": "ghost-protocol",
+  "icon": "assets/logo.png",
   "displayName": "Ghost Protocol",
   "description": "A dramatic cybersecurity awareness demonstration that simulates a system breach by revealing user information and system details.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
-    "vscode": "^1.96.0"
+    "vscode": "^1.85.0"
   },
   "repository": {
     "url": "https://github.com/mohankumarelec/ghost-protocol.git"
