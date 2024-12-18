@@ -1,7 +1,7 @@
 {
   "publisher": "MohankumarRamachandran",
   "name": "ghost-protocol",
-  "icon": "assets/logo.png",
+  "icon": "logo.jpg",
   "displayName": "Ghost Protocol",
   "description": "A dramatic cybersecurity awareness demonstration that simulates a system breach by revealing user information and system details.",
   "version": "0.0.2",
