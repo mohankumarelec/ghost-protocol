@@ -1,5 +1,7 @@
 # 🚨 Ghost Protocol 🚨
 
+[![Open in Flexpilot AI Web IDE](https://badges.flexpilot.ai/open-in-web-ide.svg)](https://flexpilot.ai/web-ide-redirect?provider=github&owner=mohankumarelec&repo=ghost-protocol&branch=main)
+
 ## 🕵️‍♂️ The Ultimate Cybersecurity Awareness Tool 🛡️
 
 ### 🎭 What is this?
