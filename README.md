@@ -2,6 +2,8 @@
 
 [![Open in Flexpilot AI Web IDE](https://badges.flexpilot.ai/open-in-web-ide.svg)](https://flexpilot.ai/web-ide-redirect?provider=github&owner=mohankumarelec&repo=ghost-protocol&branch=main)
 
+Download VS Code extension from [here](https://marketplace.visualstudio.com/items?itemName=MohankumarRamachandran.ghost-protocol) to try it out
+
 ## 🕵️‍♂️ The Ultimate Cybersecurity Awareness Tool 🛡️
 
 ### 🎭 What is this?
